@@ -1,6 +1,6 @@
 {
-  "name": "FATIMA-MD",
-  "description": "Javascript WhatsApp bot made by 𝒟𝑅 𝒦𝒜𝑀𝑅𝒜𝒩 , KAMRAN-XD",
+  "name": "KAMRAN-XD",
+  "description": "Javascript WhatsApp bot made by DR KAMRAN",
   "logo": "https://files.catbox.moe/tps5va.jpg",
   "keywords": ["KAMRAN-XD"],
   "success_url": "/",
@@ -16,7 +16,7 @@
     "STICKER_NAME": {
       "description": "type your sticker pack name.",
       "required": false,
-      "value": "𝒦𝒜𝑀𝑅𝒜𝒩"
+      "value": "𝒟𝑅 𝒦𝒜𝑀𝑅𝒜𝒩"
     }, 
       
     "PREFIX": {
@@ -85,20 +85,20 @@
     "OWNER_NAME": {
       "description": "Type Bot Owner Name.",
       "required": false,
-      "value": 𝒟𝑅 𝒦𝒜𝑀𝑅𝒜𝒩 "
+      "value": "DR KAMRAN"
 }, 
 
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": false,
-      "value": "+923114925162"
+      "value": "923114925162"
 
     }, 
 
     "BOT_NAME": {
       "description": "Type here the bot name.",
       "required": false,
-      "value": "𝒟𝑅 𝒦𝒜𝑀𝑅𝒜𝒩"
+      "value": "KAMRAN-XD"
 
       }, 
 
@@ -137,7 +137,7 @@
      "DESCRIPTION": {
       "description": "add caption for menu and other",
       "required": false,
-      "value": "*DR , 𝒟𝑅 𝒦𝒜𝑀𝑅𝒜𝒩*"
+      "value": "*CRESTER DR KAMRAN*"
     },
 
       "DELETE_LINKS": {
