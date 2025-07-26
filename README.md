@@ -37,7 +37,7 @@ DONT FORGET TO FORK 🍴 & STAR 🌟 REPO😇
 
 `FORK 🍴 AND STAR ⭐ IF YOU LIKE THIS BOT`
 
-  <a href="https://github.com/KAMRAN-XD/KAMRAN-XD/fork"><img title="KAMRAN-XD" src="https://img.shields.io/badge/FORK-FATIMA%20MD-MDh?color=indigo&style=for-the-badge&logo=stackshare"></a>
+  <a href="https://github.com/KAMRAN-XMD/KAMRAN-XD/fork"><img title="KAMRAN-XD" src="https://img.shields.io/badge/FORK-FATIMA%20MD-MDh?color=indigo&style=for-the-badge&logo=stackshare"></a>
   
 ### 2. 𐃁GET SESSION ID𐃁 
 
