@@ -1,7 +1,7 @@
 {
   "name": "KAMRAN-XD",
   "version": "4.5.0",
-  "description": "A WhatsApp Bot Created By DUA-FATIMA ,𝒟𝑅 𝒦𝒜𝑀𝑅𝒜𝒩 🤕",
+  "description": "A WhatsApp Bot Created By Dr Kamran 🤕",
   "main": "index.js",
   "scripts": {
     "start": "pm2 start index.js --deep-monitoring --attach --name KAMRAN-XD",
@@ -9,7 +9,7 @@
     "restart": "pm2 restart KAMRAN-XD"
   },
   "dependencies": {
-    "@whiskeysockets/baileys": "npm:@fizzxydev/baileys-pro@8.5.12",
+    "@whiskeysockets/baileys": "github:Richiethgoat/XD-Baileys",
     "@adiwajshing/keyed-db": "^0.2.4",
     "@dark-yasiya/yt-dl.js": "1.0.5",
     "@ffmpeg-installer/ffmpeg": "^1.1.0",
