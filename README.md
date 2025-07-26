@@ -13,11 +13,11 @@ DONT FORGET TO FORK 🍴 & STAR 🌟 REPO😇
 
 
   <p align="center">
-<a href="https://github.com/policeKAMRANXD-ofc/followers"><img title="Followers" src="https://img.shields.io/github/followers/KAMRAN-XD?color=blue&style=flat-square"></a>
-<a href="https://github.com/KAMRAN-XD/KAMRAN-XD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/KAMRAN-XD/KAMRAN-XD?color=blue&style=flat-square"></a>
-<a href="https://github.com/KAMRAN-XD/KAMRAN-XD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/KAMRAN-XD/KAMRAN-XD?color=blue&style=flat-square"></a>
-<a href="https://github.com/KAMRAN-XD/KAMRAN-XD/"><img title="Size" src="https://img.shields.io/github/repo-size/KAMRAN-XD/KAMRAN-XD?style=flat-square&color=green"></a>
-<a href="https://github.com/KAMRAN-XD/KAMRAN-XD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
+<a href="https://github.com/KAMRAN-XMD/KAMRANXD-ofc/followers"><img title="Followers" src="https://img.shields.io/github/followers/KAMRAN-XD?color=blue&style=flat-square"></a>
+<a href="https://github.com/KAMRAN-XMD/KAMRAN-XD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/KAMRAN-XD/KAMRAN-XD?color=blue&style=flat-square"></a>
+<a href="https://github.com/KAMRAN-XMD/KAMRAN-XD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/KAMRAN-XD/KAMRAN-XD?color=blue&style=flat-square"></a>
+<a href="https://github.com/KAMRAN-XMD/KAMRAN-XD/"><img title="Size" src="https://img.shields.io/github/repo-size/KAMRAN-XD/KAMRAN-XD?style=flat-square&color=green"></a>
+<a href="https://github.com/KAMRAN-XMD/KAMRAN-XD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 </p>
 <p align='center'>
 </p>
@@ -75,14 +75,14 @@ DONT FORGET TO FORK 🍴 & STAR 🌟 REPO😇
 <p style="text-align: center; font-size: 1.2em;">
 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/KAMRAN-XD/KAMRAN-XD)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/KAMRAN-XMD/KAMRAN-XD)
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 ### <h4 align="">3. KOYEB</h4>
 <p style="text-align: center; font-size: 1.2em;">
 
 <p align="">
-<a href='https://app.koyeb.com/services/deploy?type=git&repository=itx-KAMRAN-XD/KAMRAN-XD&ports=3000&env[PREFIX]=.&env[SESSION_ID]=&env[ALWAYS_ONLINE]=false&env[MODE]=public&env[AUTO_STATUS_MSG]=Seen%20status%20by%20ALI-MD&env[AUTO_STATUS_REPLY]=false&env[AUTO_STATUS_SEEN]=true&env[AUTO_TYPING]=false&env[ANTI_LINK]=true&env[AUTO_REACT]=false&env[READ_MESSAGE]=false' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-koyeb ‎ deploy-FF009D?style=for-the-badge&logo=koyeb&logoColor=white'/< width=150 height=28/p></a>
+<a href='https://app.koyeb.com/services/deploy?type=git&repository=itx-KAMRAN-XMD/KAMRAN-XD&ports=3000&env[PREFIX]=.&env[SESSION_ID]=&env[ALWAYS_ONLINE]=false&env[MODE]=public&env[AUTO_STATUS_MSG]=Seen%20status%20by%20ALI-MD&env[AUTO_STATUS_REPLY]=false&env[AUTO_STATUS_SEEN]=true&env[AUTO_TYPING]=false&env[ANTI_LINK]=true&env[AUTO_REACT]=false&env[READ_MESSAGE]=false' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-koyeb ‎ deploy-FF009D?style=for-the-badge&logo=koyeb&logoColor=white'/< width=150 height=28/p></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 ### <h4 align="">2. TALKDROVE FREE</h4>
@@ -103,7 +103,7 @@ DONT FORGET TO FORK 🍴 & STAR 🌟 REPO😇
 <p style="text-align: center; font-size: 1.2em;">
   
 <p align="">
-<a href='https://render.com/deploy?repo=https://github.com/KAMRAN-XD/KAMRAN-XD.git' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Render deploy-black?style=for-the-badge&logo=render&logoColot=white'/< width=150 height=28/p></a>
+<a href='https://render.com/deploy?repo=https://github.com/KAMRAN-XMD/KAMRAN-XD.git' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Render deploy-black?style=for-the-badge&logo=render&logoColot=white'/< width=150 height=28/p></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 ### <h4 align="">6. HUGGING FACE</h4>
@@ -132,7 +132,7 @@ DONT FORGET TO FORK 🍴 & STAR 🌟 REPO😇
 1. Go to hugginface.co/join and create an account and verify your email too.
 
 `Step 2`
-1. Go to https://huggingface.co/spaces/KAMRAN-XD/KAMRAN-XD
+1. Go to https://huggingface.co/spaces/KAMRAN-XMD/KAMRAN-XD
 
 2. Tap on *three dots* _(as shown in image)_
 
@@ -166,7 +166,7 @@ DONT FORGET TO FORK 🍴 & STAR 🌟 REPO😇
 HII DEARS FRIENDS IF YOU WANT ANY HELP SO YOU CAN CONTACT↘︎ WITH ME WIA WHATSAPP ITS ME ༎꯭ࠫ𝐃꯭𝐮꯭፝֟𝐚𝆭-꯭𝆭𓆪𝐅꯭𝐚ͯ𝐭꯭𝝸፝֟𝐦꯭̈𝐚ͯ༎𝅥ٜٜٜٜࠫ𝆬ː͢  
 
 <p align="">
-<a href='https://wa.me/+923114925162?text=*HELLO+KAMRAN XD+ɪ+ɴᴇᴇᴅ+ʜᴇʟᴘ!.+ɪ+ᴍᴇssᴀɢᴇᴅ+ʏᴏᴜ+ғʀᴏᴍ+KAMRAN-XD+ʀᴇᴘᴏ!!*' target="_blank"><img alt='Replit' src='https://img.shields.io/badge/ Whatsapp -25D366?style=for-the-badge&logo=whatsapp&logoColor=white'/< width=150 height=28/p></a> </a>
+<a href='https://wa.me/+923114925162?text=*HELLO+KAMRAN-XD+ɪ+ɴᴇᴇᴅ+ʜᴇʟᴘ!.+ɪ+ᴍᴇssᴀɢᴇᴅ+ʏᴏᴜ+ғʀᴏᴍ+KAMRAN-XD+ʀᴇᴘᴏ!!*' target="_blank"><img alt='Replit' src='https://img.shields.io/badge/ Whatsapp -25D366?style=for-the-badge&logo=whatsapp&logoColor=white'/< width=150 height=28/p></a> </a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
